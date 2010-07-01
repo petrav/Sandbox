@@ -1,8 +1,16 @@
 #ifndef TESTWIDGET_H
 #define TESTWIDGET_H
 
-class TestWidget
+#include <QDialog>
+
+class QCheckBox;
+class QLabel;
+class QLineEdit;
+class QPushButton;
+
+class TestWidget : QDialog
 {
+
 public:
     TestWidget();
 };

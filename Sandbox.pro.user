@@ -65,14 +65,14 @@
     <value type="QString" >CPU=i686</value>
     <value type="QString" >CSHEDIT=emacs</value>
     <value type="QString" >CVS_RSH=ssh</value>
-    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-ZZfny9qlRG,guid=a9e41cdbe546da5e68a409d34c2ba405</value>
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-BBhIOhNzDF,guid=eb21c2076910b6dee65a6bbe4c2cdf76</value>
     <value type="QString" >DESKTOP_SESSION=default</value>
     <value type="QString" >DESKTOP_STARTUP_ID=</value>
     <value type="QString" >DISPLAY=:0</value>
     <value type="QString" >DM_CONTROL=/var/run/xdmctl</value>
     <value type="QString" >ENV=/etc/bash.bashrc</value>
     <value type="QString" >FROM_HEADER=</value>
-    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-DxNian/S.gpg-agent:3317:1</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-k9OUL9/S.gpg-agent:4401:1</value>
     <value type="QString" >GS_LIB=/home/marian/.fonts</value>
     <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/usr/share/themes//QtCurve/gtk-2.0/gtkrc:/home/marian/.gtkrc-2.0-qtengine:/home/marian/.gtkrc-2.0:/home/marian/.kde4/share/config/gtkrc-2.0</value>
     <value type="QString" >GTK_IM_MODULE=cedilla</value>
@@ -110,7 +110,7 @@
     <value type="QString" >NNTPSERVER=news</value>
     <value type="QString" >OSTYPE=linux</value>
     <value type="QString" >PAGER=less</value>
-    <value type="QString" >PATH=/usr/bin:/home/marian/bin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/X11R6/bin:/usr/games:/opt/cross/bin:/usr/lib/jvm/jre/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin</value>
+    <value type="QString" >PATH=/usr/bin:/home/marian/bin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/X11R6/bin:/usr/games:/opt/kde3/bin:/opt/cross/bin:/usr/lib/jvm/jre/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin</value>
     <value type="QString" >PROFILEREAD=true</value>
     <value type="QString" >PWD=/home/marian</value>
     <value type="QString" >PYTHONSTARTUP=/etc/pythonstart</value>
@@ -119,7 +119,7 @@
     <value type="QString" >QT_IM_SWITCHER=imsw-multi</value>
     <value type="QString" >QT_PLUGIN_PATH=/home/marian/.kde4/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
     <value type="QString" >QT_SYSTEM_DIR=/usr/share/desktop-data</value>
-    <value type="QString" >SESSION_MANAGER=local/Marian:@/tmp/.ICE-unix/3424,unix/Marian:/tmp/.ICE-unix/3424</value>
+    <value type="QString" >SESSION_MANAGER=local/Marian:@/tmp/.ICE-unix/4512,unix/Marian:/tmp/.ICE-unix/4512</value>
     <value type="QString" >SHELL=/bin/bash</value>
     <value type="QString" >SHLVL=1</value>
     <value type="QString" >TERM=xterm</value>
@@ -132,7 +132,7 @@
     <value type="QString" >XCURSOR_THEME=Oxygen_White</value>
     <value type="QString" >XDG_CONFIG_DIRS=/etc/xdg</value>
     <value type="QString" >XDG_DATA_DIRS=/usr/share</value>
-    <value type="QString" >XDG_SESSION_COOKIE=b2e56319d428f9d142adb0634aef416d-1277928451.796866-1464305609</value>
+    <value type="QString" >XDG_SESSION_COOKIE=b2e56319d428f9d142adb0634aef416d-1278009204.223930-2028019154</value>
     <value type="QString" >XDM_MANAGED=method=classic</value>
     <value type="QString" >XKEYSYMDB=/usr/share/X11/XKeysymDB</value>
     <value type="QString" >XMODIFIERS=@im=local</value>
@@ -162,14 +162,14 @@
     <value type="QString" >CPU=i686</value>
     <value type="QString" >CSHEDIT=emacs</value>
     <value type="QString" >CVS_RSH=ssh</value>
-    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-ZZfny9qlRG,guid=a9e41cdbe546da5e68a409d34c2ba405</value>
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-BBhIOhNzDF,guid=eb21c2076910b6dee65a6bbe4c2cdf76</value>
     <value type="QString" >DESKTOP_SESSION=default</value>
     <value type="QString" >DESKTOP_STARTUP_ID=</value>
     <value type="QString" >DISPLAY=:0</value>
     <value type="QString" >DM_CONTROL=/var/run/xdmctl</value>
     <value type="QString" >ENV=/etc/bash.bashrc</value>
     <value type="QString" >FROM_HEADER=</value>
-    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-DxNian/S.gpg-agent:3317:1</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-k9OUL9/S.gpg-agent:4401:1</value>
     <value type="QString" >GS_LIB=/home/marian/.fonts</value>
     <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/usr/share/themes//QtCurve/gtk-2.0/gtkrc:/home/marian/.gtkrc-2.0-qtengine:/home/marian/.gtkrc-2.0:/home/marian/.kde4/share/config/gtkrc-2.0</value>
     <value type="QString" >GTK_IM_MODULE=cedilla</value>
@@ -207,7 +207,7 @@
     <value type="QString" >NNTPSERVER=news</value>
     <value type="QString" >OSTYPE=linux</value>
     <value type="QString" >PAGER=less</value>
-    <value type="QString" >PATH=/usr/bin:/home/marian/bin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/X11R6/bin:/usr/games:/opt/cross/bin:/usr/lib/jvm/jre/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin</value>
+    <value type="QString" >PATH=/usr/bin:/home/marian/bin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/X11R6/bin:/usr/games:/opt/kde3/bin:/opt/cross/bin:/usr/lib/jvm/jre/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin</value>
     <value type="QString" >PROFILEREAD=true</value>
     <value type="QString" >PWD=/home/marian</value>
     <value type="QString" >PYTHONSTARTUP=/etc/pythonstart</value>
@@ -216,7 +216,7 @@
     <value type="QString" >QT_IM_SWITCHER=imsw-multi</value>
     <value type="QString" >QT_PLUGIN_PATH=/home/marian/.kde4/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
     <value type="QString" >QT_SYSTEM_DIR=/usr/share/desktop-data</value>
-    <value type="QString" >SESSION_MANAGER=local/Marian:@/tmp/.ICE-unix/3424,unix/Marian:/tmp/.ICE-unix/3424</value>
+    <value type="QString" >SESSION_MANAGER=local/Marian:@/tmp/.ICE-unix/4512,unix/Marian:/tmp/.ICE-unix/4512</value>
     <value type="QString" >SHELL=/bin/bash</value>
     <value type="QString" >SHLVL=1</value>
     <value type="QString" >TERM=xterm</value>
@@ -229,7 +229,7 @@
     <value type="QString" >XCURSOR_THEME=Oxygen_White</value>
     <value type="QString" >XDG_CONFIG_DIRS=/etc/xdg</value>
     <value type="QString" >XDG_DATA_DIRS=/usr/share</value>
-    <value type="QString" >XDG_SESSION_COOKIE=b2e56319d428f9d142adb0634aef416d-1277928451.796866-1464305609</value>
+    <value type="QString" >XDG_SESSION_COOKIE=b2e56319d428f9d142adb0634aef416d-1278009204.223930-2028019154</value>
     <value type="QString" >XDM_MANAGED=method=classic</value>
     <value type="QString" >XKEYSYMDB=/usr/share/X11/XKeysymDB</value>
     <value type="QString" >XMODIFIERS=@im=local</value>
